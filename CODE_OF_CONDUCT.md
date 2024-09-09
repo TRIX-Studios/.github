@@ -60,7 +60,7 @@ représentant lors d’un événement en ligne ou hors ligne.
 
 Des cas de comportement abusif, harcelant ou autrement inacceptable peuvent être
 signalé aux dirigeants communautaires responsables de l'application de la loi à
-contact@aihubfrance.fr.
+contact@trixsmp.online.
 Toutes les plaintes seront examinées et feront l’objet d’une enquête rapide et équitable.
 
 Tous les dirigeants communautaires sont tenus de respecter la vie privée et la sécurité des
