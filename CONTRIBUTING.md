@@ -1,8 +1,8 @@
 # Lignes directrices de contribution
 
-👍🎉 Merci d'avoir envisagé de contribuer pour AI HUB FRANCE ! 🤖🌍
+👍🎉 Merci d'avoir envisagé de contribuer pour TRIX Studios ! 🤖🌍
 
-Nous acceptons les contributions de chacun, quel que soit son niveau d’expertise ou d’expérience. En contribuant à AI HUB FRANCE, vous nous aidez non seulement à améliorer nos projets, mais vous favorisez également la croissance de la communauté de l'IA dans le monde francophone.
+Nous acceptons les contributions de chacun, quel que soit son niveau d’expertise ou d’expérience. En contribuant à TRIX Studios, vous nous aidez non seulement à améliorer nos projets, mais vous favorisez également la croissance de la communauté dans le monde francophone.
 
 Pour garantir une expérience de collaboration fluide, veuillez prendre un moment pour consulter les directives suivantes.
 
@@ -17,20 +17,20 @@ Pour garantir une expérience de collaboration fluide, veuillez prendre un momen
 
 ## Code de conduite
 
-AI HUB FRANCE suit un [Code de conduite](CODE_OF_CONDUCT.md) qui établit les normes de participation respectueuse et inclusive dans notre communauté. Nous demandons à tous les contributeurs de respecter ces directives lorsqu'ils participent à des projets, discussions et événements d'AI HUB FRANCE.
+TRIX Studios suit un [Code de conduite](CODE_OF_CONDUCT.md) qui établit les normes de participation respectueuse et inclusive dans notre communauté. Nous demandons à tous les contributeurs de respecter ces directives lorsqu'ils participent à des projets, discussions et événements d'TRIX Studios.
 
 ## Façons de contribuer
 
-Il existe plusieurs façons de contribuer pour AI HUB FRANCE :
+Il existe plusieurs façons de contribuer pour TRIX Studios :
 
-- **Site Web** : Aidez-nous à améliorer le site Web d'AI HUB FRANCE en corrigeant des bugs, en améliorant les fonctionnalités ou en créant de nouvelles sections/pages.
+- **Site Web** : Aidez-nous à améliorer le site Web d'TRIX Studios en corrigeant des bugs, en améliorant les fonctionnalités ou en créant de nouvelles sections/pages.
 - **Projets** : contribuez à des projets spécifiques hébergés dans nos référentiels en soumettant des rapports de bugs, en implémentant de nouvelles fonctionnalités ou en suggérant des améliorations.
 - **Documentation** : Aidez-nous à améliorer la documentation de nos projets en corrigeant les erreurs, en clarifiant les instructions ou en ajoutant des informations manquantes.
-- **Engagement communautaire** : participez à des discussions, des forums et des événements en ligne pour partager vos connaissances, poser des questions et aider les autres membres de la communauté AI HUB FRANCE.
+- **Engagement communautaire** : participez à des discussions, des forums et des événements en ligne pour partager vos connaissances, poser des questions et aider les autres membres de la communauté TRIX Studios.
 
 ## Soumettre des contributions
 
-Pour contribuer à AI HUB FRANCE, suivez ces étapes :
+Pour contribuer à TRIX Studios, suivez ces étapes :
 
 1. Forkez le référentiel sur votre compte GitHub.
 2. Clonez le référentiel forké sur votre machine locale.
@@ -38,7 +38,7 @@ Pour contribuer à AI HUB FRANCE, suivez ces étapes :
 4. Apportez vos modifications et assurez-vous que le code respecte les conventions et directives de codage du projet.
 5. Validez vos modifications avec des messages de validation clairs et descriptifs.
 6. Envoyez vos modifications vers votre référentiel forké.
-7. Soumettez une pull request (PR) au référentiel AI HUB FRANCE d'origine, décrivant clairement l'objectif de la PR et toute information ou contexte pertinent.
+7. Soumettez une pull request (PR) au référentiel TRIX Studios d'origine, décrivant clairement l'objectif de la PR et toute information ou contexte pertinent.
 
 Notre équipe examinera votre contribution dans les plus brefs délais. Nous apprécions votre patience et vous fournirons des commentaires ou demanderons des modifications si nécessaire.
 
@@ -67,9 +67,9 @@ Lors de la création d'un problème, veuillez fournir :
 
 Nous valorisons une communication ouverte et transparente. Vous pouvez nous contacter via les canaux suivants :
 
-- Site Internet : [www.aihubfrance.fr](https://aihubfrance.fr)
-- E-mail : contact@aihubfrance.fr
-- Twitter : [@AIHUBFRANCE](https://twitter.com/AIHUBFRANCE)
-- Discord : [AI HUB FRANCE](https://discord.gg/aihubfr)
+- Site Internet : [www.trixstudios.online](https://trixstudios.online)
+- E-mail : contact@trixsmp.online
+- Twitter : [@TRIXStudiosMC](https://twitter.com/TRIXStudiosMC)
+- Discord : [TRIX Studios](https://discord.gg/jWDCMYEFvv)
 
-Merci pour votre contribution et votre dévouement à la communauté AI HUB FRANCE ! 🎉🤝🌟
+Merci pour votre contribution et votre dévouement à la communauté TRIX Studios ! 🎉🤝🌟
