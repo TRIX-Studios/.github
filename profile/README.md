@@ -15,7 +15,7 @@ Nous apprécions et valorisons toutes les contributions à TRIX Studios. Pour ga
 Vous avez des questions, des suggestions ou souhaitez entrer en contact avec TRIX Studios ? N'hésitez pas à nous contacter via les canaux suivants :
 
 - Site Internet : [www.trixstudios.online](https://trixstudios.online)
-- E-mail : contact@trixsmp.online
+- E-mail : contact@trixstudios.online
 - Twitter : [@TRIXStudiosMC](https://twitter.com/TRIXStudiosMC)
 - Discord : [TRIX Studios](https://discord.gg/jWDCMYEFvv)
 
